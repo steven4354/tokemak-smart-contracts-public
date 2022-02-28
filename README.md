@@ -1,3 +1,7 @@
+# Notes
+
+Adding hardhat: https://hardhat.org/tutorial/creating-a-new-hardhat-project.html
+
 # tokemak-smart-contracts-public
 A public repo of Tokemak's currently deployed contracts.
 

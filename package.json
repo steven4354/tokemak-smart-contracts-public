@@ -1,0 +1,19 @@
+{
+  "name": "tokemak-smart-contracts-public",
+  "version": "1.0.0",
+  "description": "A public repo of Tokemak's currently deployed contracts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:steven4354/tokemak-smart-contracts-public.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  }
+}
