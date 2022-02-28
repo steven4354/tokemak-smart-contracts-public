@@ -2,6 +2,8 @@
 
 Adding hardhat: https://hardhat.org/tutorial/creating-a-new-hardhat-project.html
 
+Note: the .env isn't really needed, just added everything to quickly get this working. Update the hardhat.config.js to remove the .env
+
 # tokemak-smart-contracts-public
 A public repo of Tokemak's currently deployed contracts.
 
